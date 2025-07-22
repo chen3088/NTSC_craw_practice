@@ -17,6 +17,18 @@ The notebook relies on the following Python packages:
 
 Install them with `pip install requests pandas beautifulsoup4` if they are not already available.
 
+### RAG_mini.ipynb Requirements
+
+The `RAG_mini.ipynb` notebook (not included in this repository) demonstrates a minimal retrieval-augmented generation example. It requires several additional libraries:
+
+- `openai`
+- `langchain`
+- `chromadb`
+- `tiktoken`
+- `sentence-transformers`
+
+Install them with `pip install openai langchain chromadb tiktoken sentence-transformers`.
+
 ## Usage
 
 1. Clone this repository and open `NTSC_job_data.ipynb` with Jupyter Notebook or JupyterLab.
