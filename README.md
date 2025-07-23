@@ -6,6 +6,7 @@ This repository contains a simple practice project for web crawling job postings
 
 - `NTSC_job_data.ipynb` – Jupyter notebook that fetches job posting pages and parses them with `requests` and `BeautifulSoup`.
 - `nstc_jobs_partial.csv` – A partial dataset of jobs already collected as a reference.
+- `RAG_mini.ipynb` – Demonstrates a lightweight retrieval-augmented generation workflow using FAISS.
 
 ## Requirements
 
@@ -16,6 +17,17 @@ The notebook relies on the following Python packages:
 - `beautifulsoup4`
 
 Install them with `pip install requests pandas beautifulsoup4` if they are not already available.
+
+### RAG_mini.ipynb Requirements
+
+The `RAG_mini.ipynb` notebook demonstrates a minimal retrieval-augmented generation example. In addition to `pandas`, it relies on a few extra libraries:
+
+- `langchain`
+- `sentence-transformers`
+- `faiss-cpu`
+- `numpy`
+
+Install them with `pip install langchain sentence-transformers faiss-cpu numpy`.
 
 ## Usage
 
