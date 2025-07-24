@@ -1,0 +1,16 @@
+﻿timestamp,query,rank,職缺名稱,連結,摘要,model_name,chunk_size,chunk_overlap
+2025-07-24 17:25:25,生物相關的職缺有哪些,1,中國醫藥大學生物醫學研究所誠徵博士後研究員,https://www.nstc.gov.tw/folksonomy/detail/cc8706e2-836d-4f85-94d2-89396360a823?l=ch,生物醫學相關,all-MiniLM-L6-v2,300,30
+2025-07-24 17:25:25,生物相關的職缺有哪些,2,馬偕紀念醫院血液腫瘤科蘇迺文醫師誠徵國科會補助計畫專任助理,https://www.nstc.gov.tw/folksonomy/detail/a78b7d93-b5b4-4bb9-bff5-5888b2d695e6?l=ch,生命科學相關系所,all-MiniLM-L6-v2,300,30
+2025-07-24 17:25:25,生物相關的職缺有哪些,3,高雄榮總教研部生殖暨粒線體醫學研究室---誠徵博士後研究員,https://www.nstc.gov.tw/folksonomy/detail/47729f59-955a-4b43-addd-5a18d1affa86?l=ch,生物醫學相關領域畢業。,all-MiniLM-L6-v2,300,30
+2025-07-24 17:25:25,生物相關的職缺有哪些,4,台大醫院耳鼻喉部楊宗霖教授徵博士後研究員,https://www.nstc.gov.tw/folksonomy/detail/e2f4f22d-3604-4ce0-854e-94b9a0ce8c10?l=ch,細胞生物相關技術,all-MiniLM-L6-v2,300,30
+2025-07-24 17:25:25,生物相關的職缺有哪些,5,國家衛生研究院癌症研究所 誠徵院內博士後研究員或研究助理一名,https://www.nstc.gov.tw/folksonomy/detail/95244417-fdb2-451f-812c-315ae9e234c4?l=ch,具有生化、細胞、分生背景及細胞培養等相關研究經驗。,all-MiniLM-L6-v2,300,30
+2025-07-24 17:26:54,國防相關的職缺有哪些,1,【誠徵博士後研究員】臺北醫學大學代謝與肥胖科學研究所林雅婷老師實驗室,https://www.nstc.gov.tw/folksonomy/detail/b9acd095-8dde-4fe5-91c1-d91b1cebc8b0?l=ch,有參考性相關資料,all-MiniLM-L6-v2,300,30
+2025-07-24 17:26:54,國防相關的職缺有哪些,2,義大醫院醫研部誠徵碩士級研究技術員,https://www.nstc.gov.tw/folksonomy/detail/a0478e68-0991-42a7-a7d6-3779880333f8?l=ch,具有組織染色相關訓練,all-MiniLM-L6-v2,300,30
+2025-07-24 17:26:54,國防相關的職缺有哪些,3,【國立中央大學 應用地質研究所】誠徵 理工背景 研究計畫助理,https://www.nstc.gov.tw/folksonomy/detail/f6f55778-1464-471e-8d9b-454b628ae816?l=ch,無相關經驗可，具有學習意願,all-MiniLM-L6-v2,300,30
+2025-07-24 17:26:54,國防相關的職缺有哪些,4,中國醫藥大學醫學系微免學科誠徵助理教授(含)以上教師1名,https://www.nstc.gov.tw/folksonomy/detail/b7244de0-c1b9-4c65-baad-fb398fc71faa?l=ch,具國內外微生物及免疫學、或感染症研究，相關研究所畢業。,all-MiniLM-L6-v2,300,30
+2025-07-24 17:26:54,國防相關的職缺有哪些,5,國立中興大學水土保持學系謝平城教授徵求專任研究助理,https://www.nstc.gov.tw/folksonomy/detail/37a3e393-0a91-4ebc-ab8f-51ba1479df67?l=ch,國科會計畫報告撰寫,all-MiniLM-L6-v2,300,30
+2025-07-24 17:27:06,國防相關的職缺有哪些,1,【誠徵博士後研究員】臺北醫學大學代謝與肥胖科學研究所林雅婷老師實驗室,https://www.nstc.gov.tw/folksonomy/detail/b9acd095-8dde-4fe5-91c1-d91b1cebc8b0?l=ch,有參考性相關資料,all-MiniLM-L6-v2,300,30
+2025-07-24 17:27:06,國防相關的職缺有哪些,2,義大醫院醫研部誠徵碩士級研究技術員,https://www.nstc.gov.tw/folksonomy/detail/a0478e68-0991-42a7-a7d6-3779880333f8?l=ch,具有組織染色相關訓練,all-MiniLM-L6-v2,300,30
+2025-07-24 17:27:06,國防相關的職缺有哪些,3,【國立中央大學 應用地質研究所】誠徵 理工背景 研究計畫助理,https://www.nstc.gov.tw/folksonomy/detail/f6f55778-1464-471e-8d9b-454b628ae816?l=ch,無相關經驗可，具有學習意願,all-MiniLM-L6-v2,300,30
+2025-07-24 17:27:06,國防相關的職缺有哪些,4,中國醫藥大學醫學系微免學科誠徵助理教授(含)以上教師1名,https://www.nstc.gov.tw/folksonomy/detail/b7244de0-c1b9-4c65-baad-fb398fc71faa?l=ch,具國內外微生物及免疫學、或感染症研究，相關研究所畢業。,all-MiniLM-L6-v2,300,30
+2025-07-24 17:27:06,國防相關的職缺有哪些,5,國立中興大學水土保持學系謝平城教授徵求專任研究助理,https://www.nstc.gov.tw/folksonomy/detail/37a3e393-0a91-4ebc-ab8f-51ba1479df67?l=ch,國科會計畫報告撰寫,all-MiniLM-L6-v2,300,30
