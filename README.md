@@ -33,6 +33,18 @@ The `RAG_mini.ipynb` notebook demonstrates a minimal retrieval-augmented generat
 
 Install them with `pip install langchain sentence-transformers faiss-cpu numpy`.
 
+### search_module.py Requirements
+
+The `search_module.py` script encapsulates query rewriting and FAISS retrieval.
+To run it you will need:
+
+- `transformers`
+- `langchain`
+- `sentence-transformers`
+- `faiss-cpu`
+
+Install them with `pip install transformers langchain sentence-transformers faiss-cpu`.
+
 ### RAG_sercher.ipynb Parameters
 
 The `RAG_sercher.ipynb` notebook expands on the minimal example by building a FAISS index and logging searches.
